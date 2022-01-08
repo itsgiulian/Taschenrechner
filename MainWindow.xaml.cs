@@ -100,8 +100,10 @@ namespace Taschenrechner
         {
             string variable1 = tb_erste.Text;
             double wert1;
+            tb_erste.Text = variable1.Replace(".", ",");
             string variable2 = tb_zweite.Text;
             double wert2;
+            tb_zweite.Text = variable2.Replace(".", ",");
 
             if (double.TryParse(variable1, out wert1) && double.TryParse(variable2, out wert2))
             {
@@ -131,8 +133,10 @@ namespace Taschenrechner
         {
             string variable1 = tb_erste.Text;
             double wert1;
+            tb_erste.Text = variable1.Replace(".", ",");
             string variable2 = tb_zweite.Text;
             double wert2;
+            tb_zweite.Text = variable2.Replace(".", ",");
 
             if (double.TryParse(variable1, out wert1) && double.TryParse(variable2, out wert2))
             {
@@ -160,6 +164,7 @@ namespace Taschenrechner
         {
             string variable1 = tb_erste.Text;
             double wert1;
+            tb_erste.Text = variable1.Replace(".", ",");
             string variable2 = tb_zweite.Text;
 
 
@@ -188,6 +193,7 @@ namespace Taschenrechner
         {
             string variable1 = tb_erste.Text;
             double wert1;
+            tb_erste.Text = variable1.Replace(".", ",");
             string variable2 = tb_zweite.Text;
 
 
@@ -214,8 +220,10 @@ namespace Taschenrechner
         {
             string variable1 = tb_erste.Text;
             double wert1;
+            tb_erste.Text = variable1.Replace(".", ",");
             string variable2 = tb_zweite.Text;
             double wert2;
+            tb_zweite.Text = variable2.Replace(".", ",");
 
             if (double.TryParse(variable1, out wert1) && double.TryParse(variable2, out wert2))
             {
