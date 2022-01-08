@@ -14,3 +14,19 @@ C:\Users\Familie Maas\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Tasch
 C:\Users\Familie Maas\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
 C:\Users\Familie Maas\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.exe
 C:\Users\Familie Maas\source\repos\Taschenrechner\Taschenrechner\obj\Debug\Taschenrechner.pdb
+C:\Users\giuli\Documents\GitHub\Taschenrechner\bin\Debug\Taschenrechner.exe.config
+C:\Users\giuli\Documents\GitHub\Taschenrechner\bin\Debug\Taschenrechner.exe
+C:\Users\giuli\Documents\GitHub\Taschenrechner\bin\Debug\Taschenrechner.pdb
+C:\Users\giuli\Documents\GitHub\Taschenrechner\obj\Debug\Taschenrechner.csproj.AssemblyReference.cache
+C:\Users\giuli\Documents\GitHub\Taschenrechner\obj\Debug\Taschenrechner.csproj.SuggestedBindingRedirects.cache
+C:\Users\giuli\Documents\GitHub\Taschenrechner\obj\Debug\MainWindow.g.cs
+C:\Users\giuli\Documents\GitHub\Taschenrechner\obj\Debug\App.g.cs
+C:\Users\giuli\Documents\GitHub\Taschenrechner\obj\Debug\Taschenrechner_MarkupCompile.cache
+C:\Users\giuli\Documents\GitHub\Taschenrechner\obj\Debug\Taschenrechner_MarkupCompile.lref
+C:\Users\giuli\Documents\GitHub\Taschenrechner\obj\Debug\MainWindow.baml
+C:\Users\giuli\Documents\GitHub\Taschenrechner\obj\Debug\Taschenrechner.g.resources
+C:\Users\giuli\Documents\GitHub\Taschenrechner\obj\Debug\Taschenrechner.Properties.Resources.resources
+C:\Users\giuli\Documents\GitHub\Taschenrechner\obj\Debug\Taschenrechner.csproj.GenerateResource.cache
+C:\Users\giuli\Documents\GitHub\Taschenrechner\obj\Debug\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\giuli\Documents\GitHub\Taschenrechner\obj\Debug\Taschenrechner.exe
+C:\Users\giuli\Documents\GitHub\Taschenrechner\obj\Debug\Taschenrechner.pdb
