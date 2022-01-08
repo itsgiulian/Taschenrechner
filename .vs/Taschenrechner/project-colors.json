@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a279312a-a491-4414-9e68-73cae91d76bd": {
+      "ProjectGuid": "a279312a-a491-4414-9e68-73cae91d76bd",
+      "DisplayName": "Taschenrechner",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

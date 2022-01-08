@@ -65,8 +65,10 @@ namespace Taschenrechner
         private void btn_minus_Click(object sender, RoutedEventArgs e)
         {
             string variable1 = tb_erste.Text;
+            tb_erste.Text = variable1.Replace(".", ",");
             double wert1;
             string variable2 = tb_zweite.Text;
+            tb_zweite.Text = variable2.Replace(".", ",");
             double wert2;
 
             if (double.TryParse(variable1, out wert1) && double.TryParse(variable2, out wert2))
